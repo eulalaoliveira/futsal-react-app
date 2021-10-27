@@ -1,0 +1,6 @@
+-Introduce the futsal leagues, teams and players
+-Introduce the goals, victorys, losses and draws
+-Player statistics.
+-When we click a team or a player we want to see the stats off the person/club that we click
+-Include in which canal people can watch
+-Add the social medias of the clubs and players
